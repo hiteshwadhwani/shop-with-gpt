@@ -1,4 +1,4 @@
-# shop-with-gpt
+# Shop With GPT
 shop-with-gpt is an AI-powered retail assistant designed to provide a seamless shopping experience for users on Amazon.
 
 ## Project Setup
